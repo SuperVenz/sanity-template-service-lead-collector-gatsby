@@ -1,11 +1,11 @@
 {
   "root": true,
   "project": {
-    "name": "ServiceIndustryLeadCollector"
+    "name": "<#< sanity.projectTitle >#>"
   },
   "api": {
-    "projectId": "gxlp6ypf",
-    "dataset": "production"
+    "projectId": "<#< sanity.projectId >#>",
+    "dataset": "<#< sanity.dataset >#>"
   },
 
   "plugins": [
