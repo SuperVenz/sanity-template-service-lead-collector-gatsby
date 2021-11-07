@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@fontsource/roboto": "^4.5.1",
+    "@supervenz/service-lead-collector": "^1.0.1",
     "babel-plugin-styled-components": "^1.13.3",
     "gatsby": "^4.0.2",
     "gatsby-background-image": "^1.5.3",

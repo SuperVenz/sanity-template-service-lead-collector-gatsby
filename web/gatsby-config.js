@@ -3,8 +3,8 @@ module.exports = {
     {
       resolve: `@supervenz/service-lead-collector`,
       options: {
-        projectId: `gxlp6ypf`,
-        dataset: `production`,
+        projectId: "<#< sanity.projectId >#>",
+        dataset: "<#< sanity.dataset >#>",
       },
     },
     {
