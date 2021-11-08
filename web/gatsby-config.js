@@ -3,8 +3,9 @@ module.exports = {
     {
       resolve: `@supervenz/service-lead-collector`,
       options: {
-        projectId: "<#< sanity.projectId >#>",
-        dataset: "<#< sanity.dataset >#>",
+        projectId: `gxlp6ypf`,
+        dataset: `production`,
+        useCdn: true,
       },
     },
     {
@@ -86,6 +87,5 @@ module.exports = {
         enableWebVitalsTracking: true,
       },
     },
-    `gatsby-plugin-react-helmet`,
   ],
 };
