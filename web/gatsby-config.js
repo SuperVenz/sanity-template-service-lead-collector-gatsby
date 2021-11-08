@@ -5,7 +5,7 @@ module.exports = {
       options: {
         projectId: `gxlp6ypf`,
         dataset: `production`,
-        useCdn: true,
+        basePath: "/",
       },
     },
     {
