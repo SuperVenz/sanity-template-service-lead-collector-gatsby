@@ -1,7 +1,7 @@
 import React from "react";
 import { graphql } from "gatsby";
-
-function submit(props) {
+import Layout from "../components/Layout";
+function submit({ data }) {
   return (
     <Layout
       title={data.ThankYou.seo.pageTitle}
